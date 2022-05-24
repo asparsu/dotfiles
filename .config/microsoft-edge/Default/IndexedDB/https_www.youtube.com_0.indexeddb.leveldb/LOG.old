@@ -1,0 +1,12 @@
+2022/04/28-22:12:57.945 697 Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/28-22:12:57.946 697 Recovering log #171
+2022/04/28-22:12:57.962 697 Reusing old log /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000171.log 
+2022/04/29-08:50:44.989 316a Level-0 table #176: started
+2022/04/29-08:50:45.021 316a Level-0 table #176: 938456 bytes OK
+2022/04/29-08:50:45.029 316a Delete type=0 #171
+2022/04/29-08:51:24.856 316a Compacting 1@1 + 1@2 files
+2022/04/29-08:51:24.871 316a Generated table #177@1: 658 keys, 51466 bytes
+2022/04/29-08:51:24.871 316a Compacted 1@1 + 1@2 files => 51466 bytes
+2022/04/29-08:51:24.876 316a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/29-08:51:24.877 316a Delete type=2 #173
+2022/04/29-08:51:24.877 316a Delete type=2 #176

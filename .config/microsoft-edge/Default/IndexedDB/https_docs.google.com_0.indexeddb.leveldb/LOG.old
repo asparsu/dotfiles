@@ -1,0 +1,15 @@
+2022/04/13-10:24:20.620 73b4 Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/13-10:24:20.621 73b4 Recovering log #7
+2022/04/13-10:24:20.625 73b4 Reusing old log /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
+2022/04/13-10:52:16.378 84a8 Level-0 table #12: started
+2022/04/13-10:52:16.394 84a8 Level-0 table #12: 1048363 bytes OK
+2022/04/13-10:52:16.401 84a8 Delete type=0 #7
+2022/04/13-10:52:16.402 84a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/04/13-10:52:16.402 849a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x03\x03\x01'\x009\x00a\x005\x001\x00d\x005\x00b\x000\x008\x006\x004\x008\x001\x006\x003\x003\x00a\x002\x00d\x00b\x00a\x00e\x009\x001\x00d\x007\x00f\x009\x000\x007\x005\x00f\x00_\x003\x00_\x001\x00:\x000\x000' @ 1082 : 1
+2022/04/13-10:52:16.402 849a Compacting 1@1 + 1@2 files
+2022/04/13-10:52:16.409 849a Generated table #13@1: 298 keys, 121518 bytes
+2022/04/13-10:52:16.409 849a Compacted 1@1 + 1@2 files => 121518 bytes
+2022/04/13-10:52:16.414 849a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/13-10:52:16.414 849a Delete type=2 #9
+2022/04/13-10:52:16.414 849a Delete type=2 #12
+2022/04/13-10:52:16.415 849a Manual compaction at level-1 from '\x00\x03\x03\x03\x01'\x009\x00a\x005\x001\x00d\x005\x00b\x000\x008\x006\x004\x008\x001\x006\x003\x003\x00a\x002\x00d\x00b\x00a\x00e\x009\x001\x00d\x007\x00f\x009\x000\x007\x005\x00f\x00_\x003\x00_\x001\x00:\x000\x000' @ 1082 : 1 .. (end); will stop at (end)

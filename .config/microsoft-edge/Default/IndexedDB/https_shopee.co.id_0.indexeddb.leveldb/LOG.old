@@ -1,0 +1,20 @@
+2022/03/30-18:49:11.423 2754 Creating DB /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_shopee.co.id_0.indexeddb.leveldb since it was missing.
+2022/03/30-18:49:11.436 2754 Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_shopee.co.id_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/30-18:49:11.941 1ffd Level-0 table #5: started
+2022/03/30-18:49:11.944 1ffd Level-0 table #5: 636 bytes OK
+2022/03/30-18:49:11.951 1ffd Delete type=0 #3
+2022/03/30-18:49:11.951 1ffd Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/30-18:49:38.612 1ffd Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/30-18:49:45.996 2710 Level-0 table #7: started
+2022/03/30-18:49:46.006 2710 Level-0 table #7: 219565 bytes OK
+2022/03/30-18:49:46.012 2710 Delete type=0 #4
+2022/03/30-18:49:46.013 2710 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/03/30-18:55:09.024 2754 Level-0 table #9: started
+2022/03/30-18:55:09.047 2754 Level-0 table #9: 1266759 bytes OK
+2022/03/30-18:55:09.051 2754 Delete type=0 #6
+2022/03/30-18:55:19.043 2710 Compacting 1@0 + 1@1 files
+2022/03/30-18:55:19.058 2710 Generated table #10@0: 3547 keys, 64318 bytes
+2022/03/30-18:55:19.058 2710 Compacted 1@0 + 1@1 files => 64318 bytes
+2022/03/30-18:55:19.063 2710 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/30-18:55:19.063 2710 Delete type=2 #7
+2022/03/30-18:55:19.063 2710 Delete type=2 #9

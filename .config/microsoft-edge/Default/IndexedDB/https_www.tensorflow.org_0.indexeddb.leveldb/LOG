@@ -1,0 +1,7 @@
+2022/04/04-03:23:57.129 82f Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.tensorflow.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/04-03:23:57.129 82f Recovering log #3
+2022/04/04-03:23:57.130 82f Reusing old log /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.tensorflow.org_0.indexeddb.leveldb/000003.log 
+2022/04/04-03:25:57.874 b2a Level-0 table #5: started
+2022/04/04-03:25:57.878 b2a Level-0 table #5: 2910 bytes OK
+2022/04/04-03:25:57.883 b2a Delete type=0 #3
+2022/04/04-03:25:57.883 b2a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

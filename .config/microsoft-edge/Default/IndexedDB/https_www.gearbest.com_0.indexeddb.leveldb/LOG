@@ -1,0 +1,15 @@
+2022/04/14-21:29:51.187 145e Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.gearbest.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/14-21:29:51.187 145e Recovering log #7
+2022/04/14-21:29:51.187 145e Reusing old log /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.gearbest.com_0.indexeddb.leveldb/000007.log 
+2022/04/14-21:30:25.388 561 Level-0 table #12: started
+2022/04/14-21:30:25.392 561 Level-0 table #12: 6342 bytes OK
+2022/04/14-21:30:25.398 561 Delete type=0 #7
+2022/04/14-21:30:25.399 561 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/04/14-21:30:25.399 561 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x03\x00`P\xb0\x87\x02xB\x00\x013\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00r\x00d\x00e\x00r\x00.\x00g\x00e\x00a\x00r\x00b\x00e\x00s\x00t\x00.\x00c\x00o\x00m\x00/\x00m\x00u\x00l\x00t\x00i\x00p\x00l\x00e\x00-\x00l\x00a\x00n\x00g\x00?\x00l\x00a\x00n\x00g\x00=\x00e\x00n\x00&\x00b\x001' @ 441 : 1
+2022/04/14-21:30:25.399 561 Compacting 1@1 + 1@2 files
+2022/04/14-21:30:25.402 561 Generated table #13@1: 102 keys, 4882 bytes
+2022/04/14-21:30:25.402 561 Compacted 1@1 + 1@2 files => 4882 bytes
+2022/04/14-21:30:25.408 561 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/14-21:30:25.408 561 Delete type=2 #9
+2022/04/14-21:30:25.408 561 Delete type=2 #12
+2022/04/14-21:30:25.408 561 Manual compaction at level-1 from '\x00\x03\x01\x1f\x03\x00`P\xb0\x87\x02xB\x00\x013\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00o\x00r\x00d\x00e\x00r\x00.\x00g\x00e\x00a\x00r\x00b\x00e\x00s\x00t\x00.\x00c\x00o\x00m\x00/\x00m\x00u\x00l\x00t\x00i\x00p\x00l\x00e\x00-\x00l\x00a\x00n\x00g\x00?\x00l\x00a\x00n\x00g\x00=\x00e\x00n\x00&\x00b\x001' @ 441 : 1 .. (end); will stop at (end)

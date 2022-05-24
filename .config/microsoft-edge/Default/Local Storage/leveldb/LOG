@@ -1,0 +1,9 @@
+2022/05/25-01:32:06.858 3 Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/25-01:32:06.942 3 Recovering log #823
+2022/05/25-01:32:06.970 3 Reusing old log /home/asparsu/.config/microsoft-edge/Default/Local Storage/leveldb/000823.log 
+2022/05/24-18:33:09.089 3 Level-0 table #830: started
+2022/05/24-18:33:09.097 3 Level-0 table #830: 18464 bytes OK
+2022/05/24-18:33:09.105 3 Delete type=0 #823
+2022/05/24-18:50:15.503 13 Level-0 table #832: started
+2022/05/24-18:50:15.510 13 Level-0 table #832: 25001 bytes OK
+2022/05/24-18:50:15.518 13 Delete type=0 #829

@@ -1,0 +1,81 @@
+{
+   "checksum": "956704a3ca222ab93928bf4f3ee8439f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13290705712493276",
+               "guid": "9b2bec89-7cd4-4dd8-a82f-0413b61b0ae4",
+               "id": "5",
+               "name": "Lowongan Kerja PT. Arta Boga Cemerlang",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://www.bursalampung.com/2021/09/lowongan-kerja-pt-arta-boga-cemerlang.html"
+            }, {
+               "date_added": "13291983345234824",
+               "guid": "27563fc0-04e1-4fe8-aa9a-4bd6e599325c",
+               "id": "8",
+               "name": "Kalibrr: Where Jobs Find You",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://jobseeker.kalibrr.com/candidate/exams/87?user_ref=www.kalibrr.com_organic_null_path"
+            }, {
+               "date_added": "13292592718421687",
+               "guid": "0f27b4eb-a92a-449d-9118-accc4bd469ec",
+               "id": "10",
+               "name": "r",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://docs.google.com/document/u/0/"
+            }, {
+               "date_added": "13293278037568276",
+               "guid": "b4181013-9e93-49f8-864d-3306479191c5",
+               "id": "12",
+               "name": "CCL DRIVE",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/3/my-drive"
+            } ],
+            "date_added": "13290705727846807",
+            "date_modified": "13293278037568276",
+            "guid": "c155e2dd-3bcd-4ca4-abba-f0043567bafc",
+            "id": "6",
+            "name": "求人",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13290704333001658",
+         "date_modified": "13290705712493276",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13290704333001662",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13290704333001665",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

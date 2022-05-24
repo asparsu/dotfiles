@@ -1,0 +1,7 @@
+2022/04/18-15:08:04.816 1dd7 Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/18-15:08:04.816 1dd7 Recovering log #3
+2022/04/18-15:08:04.816 1dd7 Reusing old log /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000003.log 
+2022/04/18-15:47:53.466 249c Level-0 table #5: started
+2022/04/18-15:47:53.468 249c Level-0 table #5: 833 bytes OK
+2022/04/18-15:47:53.475 249c Delete type=0 #3
+2022/04/18-15:47:53.475 249c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/04/29-04:12:59.804 1f8b Creating DB /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.blibli.com_0.indexeddb.leveldb since it was missing.
+2022/04/29-04:12:59.820 1f8b Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.blibli.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/29-04:13:36.819 2113 Level-0 table #5: started
+2022/04/29-04:13:36.827 2113 Level-0 table #5: 78773 bytes OK
+2022/04/29-04:13:36.832 2113 Delete type=0 #3
+2022/04/29-04:13:36.832 2113 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

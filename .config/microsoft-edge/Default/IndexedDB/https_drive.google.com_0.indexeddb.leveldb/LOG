@@ -1,0 +1,9 @@
+2022/05/14-23:27:11.993 419 Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/14-23:27:11.993 419 Recovering log #130
+2022/05/14-23:27:12.042 419 Reusing old log /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000130.log 
+2022/05/14-23:27:53.853 42d Compacting 1@1 + 1@2 files
+2022/05/14-23:27:53.862 42d Generated table #133@1: 152 keys, 424230 bytes
+2022/05/14-23:27:53.862 42d Compacted 1@1 + 1@2 files => 424230 bytes
+2022/05/14-23:27:53.873 42d compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/14-23:27:53.874 42d Delete type=2 #128
+2022/05/14-23:27:53.874 42d Delete type=2 #131

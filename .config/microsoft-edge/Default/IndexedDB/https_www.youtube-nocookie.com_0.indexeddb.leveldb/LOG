@@ -1,0 +1,6 @@
+2022/04/12-13:04:09.133 838a Creating DB /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2022/04/12-13:04:09.144 838a Reusing MANIFEST /home/asparsu/.config/microsoft-edge/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/12-14:28:06.825 bcb6 Level-0 table #5: started
+2022/04/12-14:28:06.828 bcb6 Level-0 table #5: 1203 bytes OK
+2022/04/12-14:28:06.834 bcb6 Delete type=0 #3
+2022/04/12-14:28:06.834 bcb6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
